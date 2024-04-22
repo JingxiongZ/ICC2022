@@ -1,2 +1,2 @@
 # ICC2022
-Service deployment problem in Network Function Virtualization
+Service deployment optinization problem in Network Function Virtualization
