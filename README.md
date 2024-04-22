@@ -1,2 +1,3 @@
 # ICC2022
-Service deployment optinization problem in Network Function Virtualization
+Service deployment optimization problem with flow partition in Network Function Virtualization. 
+Further mathematical transformation and developed algorithms published in OJCOMS. 
